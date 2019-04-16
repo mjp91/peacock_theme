@@ -1,0 +1,12 @@
+{
+ "name": "Peacock",
+ "dark": true,
+ "author": "Matthew Pearsall",
+ "editorScheme": "/peacock.xml",
+ "ui": {
+  "*": {
+   "background": "#262522",
+   "foreground": "#EDE0CE"
+  }
+ }
+}
