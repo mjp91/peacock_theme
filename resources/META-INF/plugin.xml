@@ -2,16 +2,14 @@
   <id>com.mpearsall.plugins.peacock</id>
   <name>Peacock Theme</name>
   <version>1.0</version>
-  <vendor email="mjp91@live.co.uk" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="mjp91@live.co.uk" url="https://github.com/mjp91">mjp91</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      Theme inspired by Peacock colour scheme.
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      Initial theme including editor colour scheme and UI colour modifications.
     ]]>
   </change-notes>
 
